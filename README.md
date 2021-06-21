@@ -1,11 +1,5 @@
 # Model-AT-w-1D-public-private
 
-<i>model_private-public</i> daje tylko pliki wyjściowe z mapami.
-
-<i>model_private-public-time</i> daje tylko plik wyjściowy z czasami ewolucji oraz końcowymi wartościami funkcji korelacyjnych dla S oraz sigma.
-
-<i>model_private-public-all</i> daje wszytskie statystyki opróćz pliku z czasami ewolucji: średnią magnetyzację, dysonans od czasu, funkcje korelacyjne od czasu.
-
 _________________________________________________________________
 
 Opis plików:
